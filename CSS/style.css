@@ -219,7 +219,7 @@ main{
 .section3{
     width: 1770px;
     height: 574px;
-    background-image: url("../img/pic_background.jpg");
+    background-image: url(../img/pic_background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
